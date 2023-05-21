@@ -8,19 +8,19 @@ Tasks
 
 1. For every column in the data:
 
-a. I state whether the values match the description given in the table above.
+    a. I state whether the values match the description given in the table above.
 
-b. I state the number of missing values in the column.
+    b. I state the number of missing values in the column.
 
-c. I describe what I did to make values match the description if they did not
+    c. I describe what I did to make values match the description if they did not
 match.
 
 2. I create a visualization that shows the number of claims in each location. I use the
 visualization to: 
 
-a. state which category of the variable location has the most observations
+    a. state which category of the variable location has the most observations
 
-b. explain whether the observations are balanced across categories of the
+    b. explain whether the observations are balanced across categories of the
 variable location
 
 3. describe the distribution of time to close for all claims. Your answer must include a
