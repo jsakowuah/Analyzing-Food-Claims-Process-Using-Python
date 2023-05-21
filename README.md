@@ -7,17 +7,25 @@ Vivendo is a fast food chain in Brazil with over 200 outlets. Customers often cl
 Tasks
 
 1. For every column in the data:
+
 a. I state whether the values match the description given in the table above.
+
 b. I state the number of missing values in the column.
+
 c. I describe what I did to make values match the description if they did not
 match.
+
 2. I create a visualization that shows the number of claims in each location. I use the
-visualization to:
+visualization to: 
+
 a. state which category of the variable location has the most observations
+
 b. explain whether the observations are balanced across categories of the
 variable location
+
 3. describe the distribution of time to close for all claims. Your answer must include a
 visualization that shows the distribution.
+
 4. describe the relationship between time to close and location. Your answer must
 include a visualization to demonstrate the relationship.
 
